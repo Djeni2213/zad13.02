@@ -1,0 +1,7 @@
+D:\school\Djeni 10a\Programirane\zad13.02\zad6\bin\Debug\zad6.exe.config
+D:\school\Djeni 10a\Programirane\zad13.02\zad6\bin\Debug\zad6.exe
+D:\school\Djeni 10a\Programirane\zad13.02\zad6\bin\Debug\zad6.pdb
+D:\school\Djeni 10a\Programirane\zad13.02\zad6\obj\Debug\zad6.csproj.AssemblyReference.cache
+D:\school\Djeni 10a\Programirane\zad13.02\zad6\obj\Debug\zad6.csproj.CoreCompileInputs.cache
+D:\school\Djeni 10a\Programirane\zad13.02\zad6\obj\Debug\zad6.exe
+D:\school\Djeni 10a\Programirane\zad13.02\zad6\obj\Debug\zad6.pdb
