@@ -1,0 +1,7 @@
+D:\school\Djeni 10a\Programirane\zad13.02\zad4\bin\Debug\zad4.exe.config
+D:\school\Djeni 10a\Programirane\zad13.02\zad4\bin\Debug\zad4.exe
+D:\school\Djeni 10a\Programirane\zad13.02\zad4\bin\Debug\zad4.pdb
+D:\school\Djeni 10a\Programirane\zad13.02\zad4\obj\Debug\zad4.csproj.AssemblyReference.cache
+D:\school\Djeni 10a\Programirane\zad13.02\zad4\obj\Debug\zad4.csproj.CoreCompileInputs.cache
+D:\school\Djeni 10a\Programirane\zad13.02\zad4\obj\Debug\zad4.exe
+D:\school\Djeni 10a\Programirane\zad13.02\zad4\obj\Debug\zad4.pdb
